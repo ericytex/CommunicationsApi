@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rG6+SzNBDW2sz6lYXqM1uFqbsKnYHeEvMIxsqvX/BD0=",
+  "Source": "CommunicationsApi",
+  "BasePath": "_content/CommunicationsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
